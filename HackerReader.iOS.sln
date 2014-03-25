@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerReader.iOS", "HackerReader.iOS\HackerReader.iOS.csproj", "{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Debug|iPhone.Build.0 = Debug|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Release|iPhone.ActiveCfg = Release|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Release|iPhone.Build.0 = Release|iPhone
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{89F4B4E7-BCAE-4D6B-9233-B223E74A1623}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HackerReader.iOS\HackerReader.iOS.csproj
+	EndGlobalSection
+EndGlobal
